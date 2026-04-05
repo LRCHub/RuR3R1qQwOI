@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "声の軌跡",
+  "base_artist": "Soala",
+  "createdAt": "2026-04-05T17:10:26.069118Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "声の軌跡",
+      "artist": "Soala",
+      "has_synced": false,
+      "path": "select/pl_01_声の軌跡_Soala.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "声の軌跡",
+      "artist": "Soala",
+      "has_synced": false,
+      "path": "select/localdb_01_声の軌跡_Soala.txt",
+      "repo_name": "NyMaj4Meo0s"
+    }
+  ]
+}
